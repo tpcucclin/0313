@@ -53,6 +53,7 @@ Requirements
 - Have a verifiable school-issued email address or upload documents that prove your current student status
 - Have a GitHub personal account
 - Be at least 13 years old
+- [申請教育版學生帳號: Free Domain and Web Hosting with GitHub Student Developer Pack and Namecheap](https://www.youtube.com/watch?v=CczyuEzmEO0)
 
 ### 提示技巧
 <!--rehype:wrap-class=col-span-1 row-span-1-->
@@ -193,4 +194,3 @@ alt+[ , alt+] : 覺得這個建議不好，可以切換不同建議
 ctrl + enter : 跳出 copilot 視窗，最多會顯示十筆建議
 tab : 看到建議的當下如果滿意，就直接 tab 使用此建議
 ```
-
