@@ -1,4 +1,4 @@
-Github Copilot
+Github Copilot - [官網: Quickstart for GitHub Copilot](https://docs.github.com/en/copilot/quickstart)
 ---
 
 #### VS Code 外掛套件
@@ -35,12 +35,24 @@ Github 帳號 | [註冊網址](https://github.com/signup)
 - 安裝後，點擊右下角的 `GitHub Copilot` 插件圖標，然後點擊 `Sign in to GitHub` 登入。
 - 或者，點擊工具列中的 `Accounts` 圖標，然後點擊 `使用 Github 登陸以使用Github Copilot` 進行登入。
 
-### 4、Copilot 訂閱方案
+### 4、Copilot 訂閱方案 - [官網: About billing for GitHub Copilot](https://docs.github.com/en/billing/managing-billing-for-github-copilot/about-billing-for-github-copilot)
 方案 | 價格 | 特性
 :-|-|-
-Copilot Individual | 10美元/人/月 <br> (學生, 教師, 開源專案貢獻者 免費) | 程式碼補全, 聊天機器人
+Copilot Individual | 10美元/人/月，100美元/人/年 <br>If you choose a monthly billing cycle, you will be billed $10 USD per calendar month. If you choose a yearly billing cycle, you will be billed $100 USD per year. <br> (學生, 教師, 開源專案貢獻者 免費) | 程式碼補全, 聊天機器人
 Copilot Business| 19美元/人/月 |程式碼補全, 聊天機器人, 命令列工具, 安全漏洞篩選, 程式碼參考, 公共程式碼篩選, 智慧財產權, 企業安全與隱私保障
 Copilot Enterprise| 39美元/人/月 | Business 特性 + 私人代碼庫的個人化聊天 + 文件搜尋總結 + Git Pull Request 摘要 + 程式碼審查 + 模型微調
+
+[Quickstart for GitHub Educators](https://docs.github.com/en/education/quickstart)
+---
+Tip: If you're a student and you'd like to take advantage of an academic discount, see "[Apply to GitHub Global Campus as a student.](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-global-campus-for-students/apply-to-github-global-campus-as-a-student)"
+
+Requirements
+
+- To be eligible for GitHub Global Campus, including GitHub Student Developer Pack and other benefits, you must:
+- Be currently enrolled in a degree or diploma granting course of study such as a high school, secondary school, college, university, homeschool, or similar educational institution
+- Have a verifiable school-issued email address or upload documents that prove your current student status
+- Have a GitHub personal account
+- Be at least 13 years old
 
 ### 提示技巧
 <!--rehype:wrap-class=col-span-1 row-span-1-->
@@ -181,3 +193,4 @@ alt+[ , alt+] : 覺得這個建議不好，可以切換不同建議
 ctrl + enter : 跳出 copilot 視窗，最多會顯示十筆建議
 tab : 看到建議的當下如果滿意，就直接 tab 使用此建議
 ```
+
